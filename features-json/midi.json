@@ -9,6 +9,10 @@
       "title":"Polyfill"
     },
     {
+      "url":"https://triglavmodular.hu/mods/safari-webmidi/",
+      "title":"Safari extension that adds the API"
+    },
+    {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=836897",
       "title":"Firefox support bug"
     },
